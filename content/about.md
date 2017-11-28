@@ -1,5 +1,5 @@
 +++
-menu = ""
+menu = "main"
 title = "About"
 type = "about"
 weight = 2

@@ -3,43 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cultivateoakland.org/about/</loc>
+    <loc>https://abide.community/about/</loc>
   </url>
   
   <url>
-    <loc>https://cultivateoakland.org/sldf/</loc>
+    <loc>https://abide.community/70x7/</loc>
   </url>
   
   <url>
-    <loc>https://cultivateoakland.org/categories/</loc>
+    <loc>https://abide.community/abide/</loc>
+  </url>
+  
+  <url>
+    <loc>https://abide.community/beholders/</loc>
+  </url>
+  
+  <url>
+    <loc>https://abide.community/cultivate/</loc>
+  </url>
+  
+  <url>
+    <loc>https://abide.community/patron/</loc>
+  </url>
+  
+  <url>
+    <loc>https://abide.community/restoring/</loc>
+  </url>
+  
+  <url>
+    <loc>https://abide.community/transplanters/</loc>
+  </url>
+  
+  <url>
+    <loc>https://abide.community/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cultivateoakland.org/</loc>
+    <loc>https://abide.community/service/service3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://abide.community/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cultivateoakland.org/service/service1/</loc>
+    <loc>https://abide.community/service/service1/</loc>
   </url>
   
   <url>
-    <loc>https://cultivateoakland.org/service/service2/</loc>
+    <loc>https://abide.community/service/service4/</loc>
   </url>
   
   <url>
-    <loc>https://cultivateoakland.org/service/service3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cultivateoakland.org/service/</loc>
+    <loc>https://abide.community/service/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cultivateoakland.org/tags/</loc>
+    <loc>https://abide.community/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://abide.community/service/service2/</loc>
   </url>
   
 </urlset>
