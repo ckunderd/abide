@@ -1081,6 +1081,13 @@ footer.entry-meta .meta-in {
     margin-right: 0 !important;
     border-right: none;
 }
+[data-slides-mobile] {
+	background-image: url(../images/mobile_header.jpg); /* Default image. */
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+	transition: all 0.7s ease;s
+}
 }
 
 @media (max-width: 785px) {
