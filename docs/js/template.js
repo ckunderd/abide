@@ -59,6 +59,8 @@ jQuery(document).ready(function($) {
 /*!
  * By Eharry.me (https://gist.github.com/Ema4rl/b8ef90be99205ddada5ef2cd6e632ebe)
  */
+// const mq = window.matchMedia( "(min-width: 500px)" );
+// if (mq.matches) {
  ! function ($) {
     "use strict";
     var slide = $("[data-slides]"),
@@ -76,3 +78,22 @@ jQuery(document).ready(function($) {
         };
     n()
 }(jQuery);
+/*} else {
+ ! function ($) {
+    "use strict";
+    var slide = $("[data-slides-mobile]"),
+        count = 0,
+        slides = slide.data("slides"),
+        len = slides.length,
+        n = function () {
+            if (count >= len) {
+                count = 0
+            }
+            slide.css("background-image", 'url("' + slides[count] + '")').show(0, function () {
+                setTimeout(n, 5e3)
+            });
+            count++;
+        };
+    n()
+}(jQuery); 
+}*/

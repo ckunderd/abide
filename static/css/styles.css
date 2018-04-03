@@ -1039,7 +1039,7 @@ footer.entry-meta .meta-in {
     background-position: top left !important;
     background-position-y: -80px !important;
     background-attachment: initial !important;
-    padding-top: 350px;
+    background-image: none !important;
 
     }
     .contact input[type="email"], .contact input[type="input"], .contact textarea[name="message"] {
@@ -1070,7 +1070,7 @@ footer.entry-meta .meta-in {
 	background-size: 200% !important;
     background-position: top left !important;
     background-attachment: initial !important;
-    padding-top: 200px;
+	background-image: none !important;
     }
     .contact input[type="email"], .contact input[type="input"], .contact textarea[name="message"] {
     float: none;
