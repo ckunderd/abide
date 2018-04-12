@@ -18,7 +18,7 @@
     </div>
     </div>
 </div> <!-- / section -->
-<div class="section topspace ministry-overview" id="about-{{ $.Param "ministryname" }}" {{ if isset .Params "sub_background" }}style="background:url('{{ .Site.BaseURL }}{{ $.Param "sub_background" }}') no-repeat top fixed rgb(0,0,44);" {{end}}>
+<div class="section topspace ministry-overview" id="about-{{ $.Param "ministryname" }}" {{ if isset .Params "sub_background" }}style="background:url('{{ .Site.BaseURL }}{{ $.Param "sub_background" }}') no-repeat top fixed rgb(0,0,44); background-size: cover;" {{end}}>
 <div class="row">
 <div class="col-sm-6 maincontent" style="float:right;">
 <h2>About <span class="overview-name">{{ $.Param "ministryname" }}</span></h2>

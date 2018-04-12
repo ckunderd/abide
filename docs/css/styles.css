@@ -524,7 +524,7 @@ p.our-community {
   margin: 0 0 20px;
   position: relative;
   border-radius: 50%;
-  box-shadow: 0px 1px 15px #111;
+  box-shadow: 0px 2px 15px #333;
 }
 .about-community .thumbnail .img {width: 190px; height: 190px; margin-right: 20px;}
 .about-community h3 {

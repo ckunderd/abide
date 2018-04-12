@@ -114,5 +114,21 @@
                 "url": "#"
             }
         ]
+    },
+    {
+        "id": 7,
+        "name": "Champion",
+        "image": "../images/abide_ministries8.jpg",
+        "url": "/champion",
+        "items": [
+            {
+                "name": "",
+                "url": "#"
+            },
+            {
+                "name": "",
+                "url": "#"
+            }
+        ]
     }
 ]
