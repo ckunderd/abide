@@ -1,7 +1,7 @@
 +++
 menu = ""
 parent = "initiatives"
-title = "Cultivate"
+title = "Become"
 type = "ministry"
 weight = 10
 contact_email = "cam@youwillbecome.org"
@@ -26,4 +26,4 @@ In a world filled with brokenness, it's simply not enough to want to help. The w
 
 Become aims to fill these gaps by offering prayer, counsel, resources, and connections to those who are ready to give themselves more fully to loving their neighbor.
 
-At Become, we believe that Jesus desired all who follow him to become humble, empathetic, gentle, just, compassionate, genuine, peacemaking, sincere, and resilient people. These are the qualities that transform a person's desire to help into the ability to help to their neighbor, and in turn, helps God's Kingdom to grow.
+At Become, we believe that Jesus desired all who follow him to become humble, empathetic, gentle, just, compassionate, genuine, peacemaking, sincere, and courageous people. These are of the qualities that transform a person's desire to help their neighbor into the ability to love and help their neighbor - in turn, growing the kingdom of God.
