@@ -12,7 +12,7 @@ donorbox_id = "become"
 ministrydescription = "Cam & Lyndee Underdown"
 ministryposition = "right"
 bg_image_classes = "top"
-overview = "helps individuals become people can lovingly and effectively grow God’s kingdom."
+overview = "helps individuals become people who can lovingly and effectively grow God’s kingdom."
 donate_in_order_to = "In order to sustain their work of helping individuals become the people who can help God's Kingdom grow"
 +++
 
