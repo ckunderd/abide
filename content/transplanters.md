@@ -11,11 +11,11 @@ ministryname = "Transplanters"
 donorbox_id = "transplanters"
 ministrydescription = "Dave & Kris McKenney"
 ministryposition = "right"
-overview = "enables synergy between foundations and pioneering non-profit leaders."
-donate_in_order_to = "In order to sustain their work helping non-profit leaders and foundations connect in meaningful ways"
+overview = "enables pioneering non-profit leaders to take the next step in their growth and development. "
+donate_in_order_to = "In order to sustain their work helping pioneering non-profit leaders grow in meaningful ways"
 +++
 
-Transplanters enables synergy between foundations and pioneering non-profit leaders.  These leaders are pioneers because they sacrifice everything in pursuit of their innovative ideas. Transplanters serves these leaders by performing development services including grant writing and consulting on organizational structure, systems and priorities. 
+Transplanters enables pioneering non-profit leaders to take the next step in their growth and development. These leaders are pioneers because they sacrifice everything in pursuit of their innovative ideas. Transplanters serves these leaders by performing development services including grant writing and consulting on organizational structure, systems, and priorities. 
 
 In addition, Transplanters serves foundations by providing exceptional project management and reporting, as well as the opportunity to align with well-managed, highly-influential non-profits.  
 
