@@ -178,5 +178,21 @@
                 "url": "#"
             }
         ]
+    },
+    {
+        "id": 11,
+        "name": "Kingdom Sea",
+        "image": "../images/abide_ministries12.jpg",
+        "url": "/kingdomsea",
+        "items": [
+            {
+                "name": "",
+                "url": "#"
+            },
+            {
+                "name": "",
+                "url": "#"
+            }
+        ]
     }
 ]
