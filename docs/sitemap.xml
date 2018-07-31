@@ -43,6 +43,10 @@
   </url>
   
   <url>
+    <loc>https://abide.community/vessel/</loc>
+  </url>
+  
+  <url>
     <loc>https://abide.community/</loc>
     <priority>0</priority>
   </url>
