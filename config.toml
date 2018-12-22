@@ -11,7 +11,7 @@ publishDir = "docs"
     email = "info@abide.community"
     phone = ""
     address = "323 Linwood, Rochester, MI 48307"
-    year = 2017
+    year = 2018
     background = ""
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"
@@ -33,9 +33,8 @@ publishDir = "docs"
 	url = "/#initiatives"
 	weight = 7
 [[menu.main]]
-	name = "cultivate"
-	parent = "initiatives"
-	url = "#"
+	name = "donate"
+	url = "https://abide.community/donate"
 	weight = 10
 	
 [params.disqus]
