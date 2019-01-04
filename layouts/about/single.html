@@ -19,10 +19,10 @@
 <div class="section topspace about-community">
 <div class="row">
 			<!-- Article main content -->
-			<div class="col-sm-6 maincontent">
+            <div class="col-md-10 maincontent">
                 {{ .Content }}
 			</div>
-			<div class="col-sm-6">
+			<div class="col-md-12" style="clear:both;">
 			{{ range $index, $area := .Site.Data.recentworks }}
                 <a class="thumbnail" href="{{ .url }}">
                     <span class="img">
