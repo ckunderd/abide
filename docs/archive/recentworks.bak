@@ -67,6 +67,22 @@
             }
         ]
     },
+    /*{
+        "id": 10,
+        "name": "Become",
+        "image": "../images/abide_ministries6.jpg",
+        "url": "/become",
+        "items": [
+            {
+                "name": "",
+                "url": "#"
+            },
+            {
+                "name": "",
+                "url": "#"
+            }
+        ]
+    },*/
     {
         "id": 5,
         "name": "Abide",
