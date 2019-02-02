@@ -1,0 +1,47 @@
+{{ partial "header.html" . }}
+
+<main id="main">
+
+	<div class="container">
+	
+	<div class="section topspace subheader">
+		<div class="row">
+    		<div class="col-md-12">
+    			<h6 class="lead">Donate to Abide</h6>
+        				<p class="lead text-center text-muted">
+        					{{ $.Param "subheader" }}
+        				</p>
+                 <div class="ministry-button-row">
+                    <a class="btn btn-action text-center donate-button" href="#donate-staff">Staff</a>
+                     <a class="btn btn-action text-center donate-button" href="#donate-general">General Fund</a>
+                     <a class="btn btn-action text-center donate-button" href="#collective">Collective Members</a>
+                </div>
+    		</div>
+    	</div>
+	</div> <!-- / section -->
+
+{{ partial "staff.html" . }}
+        
+<div class="section topspace general-fund" id="donate-general">
+    <div class="row">
+        <div class="col-md-12">
+        <h6 class="lead">The Abide General Fund</h6>
+        </div>
+         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+        <div class="center-iframe"><iframe class="donorbox-form" width="100%" height="685px" src="https://donorbox.org/embed/abide?hide_donation_meter=true" frameborder="0" style="max-width:700px; min-width:310px; max-height:none!important; border: none;" seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0" scrolling="no">
+            </iframe></div>
+        </div>
+       <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+            {{ .Content }}
+        </div>
+    </div>
+</div>
+        
+{{ partial "recentworks.html" . }}
+
+	</div>	<!-- /container -->
+
+</main>
+{{ partial "staff_modal.html" . }}
+
+{{ partial "footer.html" . }}

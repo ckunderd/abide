@@ -1,21 +1,18 @@
 [
     {
-        "id": 0,
-        "name": "Beholders",
-        "image": "../images/abide_ministries2.jpg",
-        "url": "/beholders",
+        "id": 2,
+        "name": "Patron",
+        "image": "../images/abide_ministries.jpg",
+        "url": "/patron",
+        "description": "Anti-trafficking",
         "items": [
             {
                 "name": "",
-                "url": ""
+                "url": "#"
             },
             {
                 "name": "",
-                "url": ""
-            },
-            {
-                "name": "",
-                "url": ""
+                "url": "#"
             }
         ]
     },
@@ -24,6 +21,7 @@
         "name": "70x7",
         "image": "../images/abide_ministries5.jpg",
         "url": "/70x7",
+        "description": "Trauma Survivors",
         "items": [
             {
                 "name": "",
@@ -32,22 +30,6 @@
             {
                 "name": "",
                 "url": ""
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "name": "Patron",
-        "image": "../images/abide_ministries.jpg",
-        "url": "/patron",
-        "items": [
-            {
-                "name": "",
-                "url": "#"
-            },
-            {
-                "name": "",
-                "url": "#"
             }
         ]
     },
@@ -56,102 +38,7 @@
         "name": "Restoring",
         "image": "../images/abide_ministries3.jpg",
         "url": "/restoring",
-        "items": [
-            {
-                "name": "",
-                "url": "#"
-            },
-            {
-                "name": "",
-                "url": "#"
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "name": "Abide",
-        "image": "../images/abide_ministries4.jpg",
-        "url": "/abide",
-        "items": [
-            {
-                "name": "",
-                "url": "#"
-            },
-            {
-                "name": "",
-                "url": "#"
-            }
-        ]
-    },
-    {
-        "id": 6,
-        "name": "Transplanters",
-        "image": "../images/abide_ministries7.jpg",
-        "url": "/transplanters",
-        "items": [
-            {
-                "name": "",
-                "url": "#"
-            },
-            {
-                "name": "",
-                "url": "#"
-            }
-        ]
-    },
-    {
-        "id": 7,
-        "name": "Champion",
-        "image": "../images/abide_ministries8.jpg",
-        "url": "/champion",
-        "items": [
-            {
-                "name": "",
-                "url": "#"
-            },
-            {
-                "name": "",
-                "url": "#"
-            }
-        ]
-    },
-    {
-        "id": 8,
-        "name": "Cultivate",
-        "image": "../images/abide_ministries9.jpg",
-        "url": "/cultivate",
-        "items": [
-            {
-                "name": "",
-                "url": "#"
-            },
-            {
-                "name": "",
-                "url": "#"
-            }
-        ]
-    },
-    {
-        "id": 9,
-        "name": "Vessel",
-        "image": "../images/abide_ministries10.jpg",
-        "url": "/vessel",
-        "items": [
-            {
-                "name": "",
-                "url": "#"
-            },
-            {
-                "name": "",
-                "url": "#"
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "name": "Reconcile",
-        "image": "../images/abide_ministries11.jpg",
-        "url": "/reconcile",
+        "description": "Arts & Culture",
         "items": [
             {
                 "name": "",
@@ -168,6 +55,7 @@
         "name": "Kingdom Sea",
         "image": "../images/abide_ministries12.jpg",
         "url": "/kingdomsea",
+        "description": "International Evangelism",
         "items": [
             {
                 "name": "",
@@ -176,6 +64,112 @@
             {
                 "name": "",
                 "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Reconcile",
+        "image": "../images/abide_ministries11.jpg",
+        "url": "/reconcile",
+        "description": "Racial Reconciliation",
+        "items": [
+            {
+                "name": "",
+                "url": "#"
+            },
+            {
+                "name": "",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Transplanters",
+        "image": "../images/abide_ministries7.jpg",
+        "url": "/transplanters",
+        "description": "Grants & Development",
+        "items": [
+            {
+                "name": "",
+                "url": "#"
+            },
+            {
+                "name": "",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Champion",
+        "image": "../images/abide_ministries8.jpg",
+        "url": "/champion",
+        "description": "Sports Ministry",
+        "items": [
+            {
+                "name": "",
+                "url": "#"
+            },
+            {
+                "name": "",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Cultivate",
+        "image": "../images/abide_ministries9.jpg",
+        "url": "/cultivate",
+        "description": "University Students",
+        "items": [
+            {
+                "name": "",
+                "url": "#"
+            },
+            {
+                "name": "",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Vessel",
+        "image": "../images/abide_ministries10.jpg",
+        "url": "/vessel",
+        "description": "Orphaned Children",
+        "items": [
+            {
+                "name": "",
+                "url": "#"
+            },
+            {
+                "name": "",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 0,
+        "name": "Beholders",
+        "image": "../images/abide_ministries2.jpg",
+        "url": "/beholders",
+        "description": "Worship & Evangelism",
+        "items": [
+            {
+                "name": "",
+                "url": ""
+            },
+            {
+                "name": "",
+                "url": ""
+            },
+            {
+                "name": "",
+                "url": ""
             }
         ]
     }

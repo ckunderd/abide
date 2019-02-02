@@ -1,0 +1,74 @@
+[
+    {
+        "id": 0,
+        "name": "Mike Carnill",
+        "image": "../images/staff/abidestaff1.jpg",
+        "url": "",
+        "title": "Executive Director",
+        "items": [
+            {
+                "name": "",
+                "url": ""
+            },
+            {
+                "name": "",
+                "url": ""
+            },
+            {
+                "name": "",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Cam Underdown",
+        "image": "../images/staff/abidestaff2.jpg",
+        "url": "",
+        "title": "Advisor",
+        "items": [
+            {
+                "name": "",
+                "url": ""
+            },
+            {
+                "name": "",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Amanda Kozlowski",
+        "image": "../images/staff/abidestaff3.jpg",
+        "url": "",
+        "title": "Advisor",
+        "items": [
+            {
+                "name": "",
+                "url": "#"
+            },
+            {
+                "name": "",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Chelsea Carnill",
+        "image": "../images/staff/abidestaff4.jpg",
+        "url": "",
+        "title": "Administrator",
+        "items": [
+            {
+                "name": "",
+                "url": "#"
+            },
+            {
+                "name": "",
+                "url": "#"
+            }
+        ]  
+    }
+]

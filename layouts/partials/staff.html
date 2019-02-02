@@ -1,0 +1,32 @@
+<div class="section donate-staff topspace" id="donate-staff">
+<div class="row">
+
+    <h2 class="section-title"><span>Our Staff</span></h2>
+    
+    <p class="our-community" style="font-size: 1.1rem;">The Abide Collective is served by an experienced team offering advising, encouragement, prayer, and administrative support. Our staff are 100% funded by donations from individuals, and they do not receive fees from Abide Collective Members. When you give to Abide staff, you give to a group of people committed to ensuring Abide Collective members can do their important work.</p>
+
+    <div class="thumbnails row">
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+
+        {{ range .Site.Data.staff }}
+            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <div class="thumbnail">    
+                <a href="#about_teamModal{{ .modalID }}" class="portfolio-link" data-toggle="modal">
+            {{ $url := printf "images/staff/%s" .preview }}
+                    <span class="img">
+                        <img src="../images/staff/{{ .preview }}" alt="">
+                    </span>
+                </a>
+                    <span class="title">{{ .name }}</span>
+                    <span class="position">{{ .title }}</span>
+            </div>
+        </div>
+        {{ end }}
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+        <div class="center-iframe"><iframe class="donorbox-form" width="100%" height="685px" src="https://donorbox.org/embed/abide?hide_donation_meter=true" frameborder="0" style="max-width:700px; min-width:310px; max-height:none!important; border: none;" seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0" scrolling="no">
+            </iframe></div>
+        </div>
+</div>
+</div><!--/row-->
+</div> <!-- /section -->
