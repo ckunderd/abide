@@ -14,6 +14,9 @@
         <a class="btn btn-action text-center ministry-button" href="#about-{{ $.Param "ministryname" }}">About</a>
         <a class="btn btn-action text-center ministry-button" href="#donate-to-{{ $.Param "ministryname" }}">Donate</a>
         <a class="btn btn-action text-center ministry-button" href="#contact-{{ $.Param "ministryname" }}">Contact</a>
+        {{ with $.Param "website" }}
+         <a class="btn btn-action text-center ministry-button" href="{{$.Param "website"}}" target="_blank">Website</a>
+        {{ end }}
 		</div>
     </div>
     </div>
