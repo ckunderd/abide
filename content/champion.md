@@ -11,8 +11,9 @@ ministryname = "Champion"
 donorbox_id = "champion"
 ministrydescription = "Tony DeMonaco"
 ministryposition = "left"
+website = "https://championsm.com"
 overview = "is a group of local chaplains who make disciples of professional and amateur athletes in metro Detroit."
-donate_in_order_to = "In order to sustain their work of making disciples of local athletes, "
+donate_in_order_to = "In order to sustain their work of making disciples of local athletes"
 +++
  
 Champion exists to help local professional and amateur athletes encounter the love and truth of Christ in order to help them become fully devoted followers of Jesus. Through Bible studies, Sunday gatherings, friendly hospitality, and individual mentoring, Champion provides real friendship and Christ-centered life guidance to players in local professional baseball leagues, with plans to expand to more sports in the near future.
