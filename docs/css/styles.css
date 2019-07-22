@@ -726,6 +726,8 @@ p.version {
     /* margin-top: 40px !important; */
     clear: both;
 }
+
+.bg-bottom {background-position:bottom !important;}
 /*********************************************************************
 
 
