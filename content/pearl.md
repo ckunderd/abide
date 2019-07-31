@@ -12,6 +12,7 @@ donorbox_id = "pearl"
 ministrydescription = "Yang Chen"
 ministryposition = "left"
 bg_image_classes = ""
+background-image-position = "80"
 overview = "exists to help Asian Americans flourish in Christ."
 donate_in_order_to = "In order to sustain their work of helping Asian Americans flourish in Christ"
 +++
