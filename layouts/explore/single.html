@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport"    content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="">
+	<title>{{ .Site.Params.sitename }} | {{ .Title }}</title>
+
+	<link rel="shortcut icon" href="{{ .Site.BaseURL }}{{ .Site.Params.favicon }}">
+
+	<!-- Bootstrap -->
+	<link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
+	<!-- Icons -->
+	<link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+	<!-- Fonts -->
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alice|Open+Sans|Montserrat:400,300,700,100,200">
+	<!-- Custom styles -->
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}css/styles.css">
+
+	<!--[if lt IE 9]> <script src="js/html5shiv.js"></script> <![endif]-->
+
+    {{ if .Site.Params.customsharethis }}
+        <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property={{ .Site.Params.sharethis.property }}&product=custom-share-buttons"></script>
+    {{ else }}
+        <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property={{ .Site.Params.sharethis.property }}&product=inline-share-buttons"></script>
+    {{ end }}
+
+</head>
+<body{{ with .Type}} class="{{ . }} home" {{end}}>
+
+<header id="header" class="explore-img">
+	{{ partial "menu.html" . }}
+    {{ if isset .Params "tagline" }}<div class="row hv-center-parent"><div class="col-sm-12 hv-center-child"><h1 class="header-tagline">{{ $.Param "tagline" }}</h1></div></div>{{ end }}
+	<div id="head" class="parallax {{ $.Param "ministryname"}} {{ $.Param "ministryposition" }}" parallax-speed="2">
+		<h1 id="logo" class="text-left">
+			<!--<img class="img-circle" src="{{ .Site.BaseURL }}images/guy.jpg" alt="">-->
+			<span class="title">{{ if isset .Params "ministryname"}}{{ $.Param "ministryname"}}{{ else }}{{ .Site.Params.Mname }}{{ end }}</span>
+			<span class="tagline">{{ if isset .Params "ministrydescription"}}{{ $.Param "ministrydescription"}}{{ else }}{{ .Site.Params.Mdescription }}{{ end }}<br>
+				<!--{{ if .IsHome }}<a href="{{ .Site.BaseURL }}/abide" class="btn btn-action">Learn More</a>{{end}}-->
+            </span>
+		</h1>
+	</div>
+
+</header>
+
+<main id="main">
+
+	<div class="container">
+	
+	<div class="section topspace subheader">
+		<div class="row">
+    		<div class="col-md-12">
+    			<h6 class="lead">You're Invited</h6>
+        				<p class="lead text-center text-muted">
+        					{{ $.Param "subheader" }}
+        				</p>
+                 <div class="ministry-button-row">
+                     <a class="btn btn-action text-center donate-button" href="#details">Details & Directions</a>
+                     <a class="btn btn-action text-center donate-button" href="#rsvp">RSVP</a>
+                     <a class="btn btn-action text-center donate-button" href="#rsvp">Meet the Collective</a>
+                </div>
+    		</div>
+    	</div>
+	</div> <!-- / section -->
+
+<div class="section topspace" id="details">
+    <div class="row">
+        <h6 class="lead">Event Details</h6>
+        <div class="col-xs-12 col-md-6 col-lg-6">
+            {{.Content}}
+        </div>
+        <div class="col-xs-12 col-md-6 col-lg-6">
+         <div class="mapouter"><div class="gmap_canvas"><iframe width="400" height="700" id="gmap_canvas" src="https://maps.google.com/maps?q=miliken%20state%20harbor%20detroi%20mi&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>Google Maps Generator by <a href="https://www.embedgooglemap.net">embedgooglemap.net</a></div><style>.mapouter{position:relative;text-align:right;height:700px;width:400px;}.gmap_canvas {overflow:hidden;background:none!important;height:700px;width:400px;}</style></div>
+        </div>
+    </div>
+</div>
+        
+<div class="section topspace subheader" id="rsvp">
+    <div class="row">
+        <h6 class="lead">RSVP</h6>
+        <div class="col-xs-8 col-md-8 col-lg-8 col-xs-offset-2 col-md-offset-2 col-lg-offset-2">
+            <p align="center">Please fill out the form below to submit your RSVP!</p>
+            <div class="RSVP-form">
+                <form action="https://formcarry.com/s/OWs7uvND8ph" method="POST" accept-charset="UTF-8" >
+                <p><label class="form-label">First Name (required)</label><br><input type="text" name="firstName" class="rsvp-input" required></p>
+                <p><label class="form-label">Last Name (required)</label><br><input type="text" name="lastName" class="rsvp-input" required></p>
+                <p><label class="form-label">Email Address</label><br><input type="email" name="email" class="rsvp-input"></p>
+                <p><label class="form-label">Phone (required)</label><br><input type="text" name="phone" class="rsvp-input" required></p>
+                <p><label class="form-label">How many in your party? (required)</label><br><input type="text" name="partySize" class="rsvp-input" required></p>
+                <p><label class="form-label">Address</label><br><input type="text" name="address1" class="rsvp-input address-input" placeholder="Street Address"><input type="text" name="address2" class="rsvp-input address-input" placeholder="Address Line 2"><input type="text" name="city" class="rsvp-input address-input" placeholder="City"><input type="text" name="state" class="rsvp-input address-input" placeholder="State"><input type="text" name="zip" class="rsvp-input address-input" placeholder="Zip"></p>
+                <input type="hidden" name="_gotcha"><!-- use this to prevent spam -->
+                <input type="submit">
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+        
+{{ partial "recentworks.html" . }}
+
+	</div>	<!-- /container -->
+
+</main>
+{{ partial "staff_modal.html" . }}
+
+{{ partial "footer.html" . }}

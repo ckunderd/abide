@@ -728,6 +728,42 @@ p.version {
 }
 
 .bg-bottom {background-position:bottom !important;}
+
+/*Explore type*/
+@media screen and (max-width: 600px) {   
+    .explore-img{ background-image: url('../images/explore_header_mobile.jpg'); }
+}
+
+@media screen and (min-width: 601px) and (max-width: 767px) {   
+    .explore-img{ background-image: url('../images/explore_header_mobile_767.jpg');
+    background-position:center;}
+}
+
+@media screen and (min-width: 768px) and (max-width: 949px) {      
+    .explore-img{      
+    	background-image: url('../images/explore_header_mobile.jpg');
+    } 
+}
+@media screen and (min-width: 950px) and (max-width: 1259px) {      
+    .explore-img{      
+    	background-image: url('../images/explore_header_mobile_950.jpg');
+        background-position: center;
+    } 
+}
+@media (min-width: 1260px) {      
+      .explore-img{        
+          background-image: url('../images/explore_header.jpg');
+      } 
+}
+
+#details {background-image: url('../images/ministries_bg.jpg'); background-size: cover;}
+#details h3, h5 {
+    color: #CCC;
+}
+#details p {color:#EEE;}
+.RSVP-form input {width:100% !important; padding: 10px !important;}
+.address-input {margin-bottom: 10px;}
+
 /*********************************************************************
 
 
