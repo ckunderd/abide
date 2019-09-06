@@ -760,6 +760,7 @@ p.version {
 #details h3, h5 {
     color: #CCC;
 }
+#details h5 {font-weight: 700;}
 #details p {color:#EEE;}
 .RSVP-form input {width:100% !important; padding: 10px !important;}
 .address-input {margin-bottom: 10px;}
