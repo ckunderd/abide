@@ -153,23 +153,6 @@
         ]
     },
     {
-        "id": 9,
-        "name": "Vessel",
-        "image": "../images/abide_ministries10.jpg",
-        "url": "/vessel",
-        "description": "Orphaned Children",
-        "items": [
-            {
-                "name": "",
-                "url": "#"
-            },
-            {
-                "name": "",
-                "url": "#"
-            }
-        ]
-    },
-    {
         "id": 0,
         "name": "Beholders",
         "image": "../images/abide_ministries2.jpg",

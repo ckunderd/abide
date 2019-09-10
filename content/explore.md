@@ -17,7 +17,7 @@ Each branch of the Abide Collective will be in a different spot along the Riverf
 
 ##### 4-5 PM Reception
 
-Join us for a brief get together at the end of the Harbor for refreshements while briefly hearing from each branch of the Abide Collective about how Abide Ministries is helping them accomplish the work they are called to do. We will celebrate and pray together. 
+From 4-5pm, join us for a time of sharing and refreshments. Each branch of the Abide Collective will have a chance to share what is happening with their work, and we will conclude by praying together in gratitude for what God has done, as well as God's will for the future. 
 
 ##### Parking
 

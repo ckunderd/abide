@@ -730,6 +730,7 @@ p.version {
 .bg-bottom {background-position:bottom !important;}
 
 /*Explore type*/
+header.explore-img {background-position: top left; background-color: rgb(0,0,44); background-repeat: no-repeat;}
 @media screen and (max-width: 600px) {   
     .explore-img{ background-image: url('../images/explore_header_mobile.jpg'); }
 }
@@ -741,18 +742,21 @@ p.version {
 
 @media screen and (min-width: 768px) and (max-width: 949px) {      
     .explore-img{      
-    	background-image: url('../images/explore_header_mobile.jpg');
+    	background-image: url('../images/explore_header_mobile_767.jpg');
+        background-size: contain !important;
+        background-position: left bottom !important;
     } 
 }
 @media screen and (min-width: 950px) and (max-width: 1259px) {      
     .explore-img{      
     	background-image: url('../images/explore_header_mobile_950.jpg');
-        background-position: center;
     } 
 }
 @media (min-width: 1260px) {      
       .explore-img{        
           background-image: url('../images/explore_header.jpg');
+          background-size: contain !important;
+          background-position: center ! important;
       } 
 }
 
