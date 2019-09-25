@@ -22,6 +22,12 @@ publishDir = "docs"
     showDownload = false
     showClients = false
     showQuote = true
+    
+    # Format dates with Go's time formatting
+	date_format = "2006-01-02"
+
+	# Add read time estimates in the format "X min read"
+	show_read_time = false
 
 [[menu.main]]
     name = "home"
