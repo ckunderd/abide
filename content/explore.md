@@ -9,7 +9,7 @@ subheader = "Join us and discover how God is working through the creative and co
 +++
 ### OVERVIEW
 
-Join the Abide Collective for an afternoon on the Detroit Riverfront! **On Sunday, September 29**, You will be able to meet the creative and courageous leaders of the Abide Collective, learn more about the beautiful work they are doing, and build relationships new and old.
+Join the Abide Collective for an afternoon on the Detroit Riverfront! **On Sunday, September 29**, You will be able to meet the creative and courageous leaders of the Abide Collective, learn more about the beautiful work they are doing, and build relationships new and old. **Entrance is at Cullen Plaza, 1340 Atwater St, Detroit MI.** Please enter here, even if you can't park there. 
 
 ##### 3-4 PM Stroll
 
@@ -21,4 +21,4 @@ From 4-5pm, join us for a time of sharing and refreshments. Each branch of the A
 
 ##### Parking
 
-You can find free parking in the lot adjacent to the Milliken State Park & Harbor, or along the street on Atwater, Rivard, Riopelle, or other nearby streets. There is a paid garage at 1331 Franklin St, Detroit MI 48207.
+You can find free parking in the lot adjacent to Cullen Plaza (circled in red), or along the street on Atwater, Rivard, Riopelle, or other nearby streets (marked with yellow). There is a paid garage at 1331 Franklin St, Detroit MI 48207. Please see the attached parking map. 
