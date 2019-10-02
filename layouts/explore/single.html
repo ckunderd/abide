@@ -50,19 +50,19 @@
 	<div class="section topspace subheader">
 		<div class="row">
     		<div class="col-md-12">
-    			<h6 class="lead">You're Invited</h6>
+    			<h6 class="lead">Thank you!</h6>
         				<p class="lead text-center text-muted">
         					{{ $.Param "subheader" }}
         				</p>
                  <div class="ministry-button-row">
-                     <a class="btn btn-action text-center donate-button" href="#details">Details & Directions</a>
-                     <a class="btn btn-action text-center donate-button" href="#rsvp">RSVP</a>
-                     <a class="btn btn-action text-center donate-button" href="#rsvp">Meet the Collective</a>
+                     <a class="btn btn-action text-center donate-button" href="{{ .Site.BaseURL }}pdf/explore.pdf">Program</a>
+                     <a class="btn btn-action text-center donate-button" href="/donate">Donate</a>
+                     <a class="btn btn-action text-center donate-button" href="/#collective">Meet the Collective</a>
                 </div>
     		</div>
     	</div>
 	</div> <!-- / section -->
-
+<!--
 <div class="section topspace" id="details">
     <div class="row">
         <h6 class="lead">Event Details</h6>
@@ -91,7 +91,7 @@
                 <p><label class="form-label">Phone (required)</label><br><input type="text" name="phone" class="rsvp-input" required></p>
                 <p><label class="form-label">How many in your party? (required)</label><br><input type="text" name="partySize" class="rsvp-input" required></p>
                 <p><label class="form-label">Address</label><br><input type="text" name="address1" class="rsvp-input address-input" placeholder="Street Address"><input type="text" name="address2" class="rsvp-input address-input" placeholder="Address Line 2"><input type="text" name="city" class="rsvp-input address-input" placeholder="City"><input type="text" name="state" class="rsvp-input address-input" placeholder="State"><input type="text" name="zip" class="rsvp-input address-input" placeholder="Zip"></p>
-                <input type="hidden" name="_gotcha"><!-- use this to prevent spam -->
+                <input type="hidden" name="_gotcha"><!-- use this to prevent spam 
                 <input type="submit">
                 </form>
             </div>
@@ -99,7 +99,7 @@
     </div>
 </div>
         
-{{ partial "recentworks.html" . }}
+{{ partial "recentworks.html" . }}-->
 
 	</div>	<!-- /container -->
 

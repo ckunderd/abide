@@ -5,7 +5,7 @@ type = "explore"
 weight = 2
 header_image="images/explore_header.jpg"
 tagline=""
-subheader = "Join us and discover how God is working through the creative and courageous leaders who make up the Abide Collective."
+subheader = "Thank you to all who came and explored the Abide Collective in September 2019. We are grateful to you!"
 +++
 ### OVERVIEW
 
