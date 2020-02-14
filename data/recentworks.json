@@ -199,6 +199,27 @@
         ]
     },
     {
+        "id": 15,
+        "name": "Haiti Children's Aid Society",
+        "image": "../images/abide_ministries17.jpg",
+        "url": "/hcas",
+        "description": "Orphan Support",
+        "items": [
+            {
+                "name": "",
+                "url": ""
+            },
+            {
+                "name": "",
+                "url": ""
+            },
+            {
+                "name": "",
+                "url": ""
+            }
+        ]
+    },
+    {
         "id": 11,
         "name": "Connect the Nations",
         "image": "../images/abide_ministries15.jpg",
