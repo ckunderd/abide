@@ -180,13 +180,13 @@ padding: 20px 0;
 p {
   line-height: 1.6em;
   margin: 0 0 30px 0;
-  font-weight: 200;
+  font-weight: 300;
 }
 ul,
 ol {
   line-height: 1.6em;
   margin: 0 0 30px 0;
-  font-weight: 200;
+  font-weight: 300;
 }
 blockquote {
   padding: 10px 20px;
@@ -376,7 +376,7 @@ h1.header-tagline {
 color: #DDD;
   text-transform: uppercase;
   letter-spacing: 3px;
-  font-weight: 200;
+  font-weight: 300;
   text-shadow: 1px 1px 10px #000;
 }
 /*********************************************************************
@@ -679,7 +679,7 @@ p.version {
 .ministry-button-row {width: 100%; text-align: center;}
 .ministry-button {display: inline-block !important; width: 200px; margin-right: 20px !important; margin-bottom: 20px !important;}
 .donate-button {display: inline-block !important; width: 300px; margin-right: 20px !important; margin-bottom: 20px !important;}
-.ministry p.lead {font-weight: 200;}
+.ministry p.lead {font-weight: 300;}
 .ministry-name {font-weight: 400; text-transform: uppercase;}
 .donate-overview h3 {text-transform: uppercase; font-weight: 200;}
 .donate .col-md-6 {
@@ -697,7 +697,7 @@ p.version {
 }
 .ministry-overview {
     color: #CCC;
-    font-weight: 200;
+    font-weight: 300;
     background-position-x: 30% !important;
 }
 .contact h2 {color: #666; font-size: 1.75rem; text-transform: uppercase; font-weight: 200; text-align: center; margin-bottom: 20px;}
@@ -708,7 +708,7 @@ p.version {
     max-width: 500px;
     display: block;
     margin-bottom: 20px;
-    font-weight: 200;
+    font-weight: 300;
     padding: 10px;
 }
 .contact input[type="email"], .contact input[type="input"] {float: right;}
@@ -1166,7 +1166,7 @@ footer.entry-meta .meta-in {
     text-transform: uppercase;
     letter-spacing: 0.5px;
     font-size: 0.8rem;
-    font-weight: 200;
+    font-weight: 300;
     line-height: 2.5rem;
     display: inline-block;
     margin-bottom: 10px;
@@ -1193,7 +1193,7 @@ footer.entry-meta .meta-in {
     text-transform: uppercase !important;
     font-size: 1.75rem !important;
     letter-spacing: 3px !important;
-    font-weight: 200 !important;
+    font-weight: 300 !important;
     color: #666;
     border-right: 1px solid #CCC;
     padding-right: 20px;
