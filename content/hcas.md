@@ -12,7 +12,7 @@ donorbox_id = "hcas"
 ministrydescription = ""
 ministryposition = "left"
 mobile_background = "mobile background-right"
-overview = "is a branch of Abide Ministries committed to meeting the needs of orphaned and impoverished children in Haiti"
+overview = "is a branch of Abide Ministries committed to meeting the needs of orphaned and impoverished children in Haiti."
 +++
 
 Haiti Children’s Aid Society USA was established in 2019 to provide support to the orphaned and impoverished children of Mirebalais, Haiti. 
