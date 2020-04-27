@@ -235,5 +235,22 @@
                 "url": "#"
             }
         ]
+    },
+    {
+        "id": 18,
+        "name": "On Your Feet Detroit",
+        "image": "../images/abide_ministries18.jpg",
+        "url": "/onyourfeetdetroit",
+        "description": "Homelessness",
+        "items": [
+            {
+                "name": "",
+                "url": "#"
+            },
+            {
+                "name": "",
+                "url": "#"
+            }
+        ]
     }
 ]
