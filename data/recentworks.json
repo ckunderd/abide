@@ -199,6 +199,23 @@
         ]
     },
     {
+        "id": 18,
+        "name": "Door of Hope",
+        "image": "../images/abide_ministries19.jpg",
+        "url": "/doorofhope",
+        "description": "Women's Empowerment",
+        "items": [
+            {
+                "name": "",
+                "url": "#"
+            },
+            {
+                "name": "",
+                "url": "#"
+            }
+        ]
+    },
+    {
         "id": 15,
         "name": "Haiti Children's Aid Society",
         "image": "../images/abide_ministries17.jpg",
