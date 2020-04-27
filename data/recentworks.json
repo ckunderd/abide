@@ -269,5 +269,22 @@
                 "url": "#"
             }
         ]
+    },
+    {
+        "id": 20,
+        "name": "Captain",
+        "image": "../images/abide_ministries20.jpg",
+        "url": "/captain",
+        "description": "Financial Assistance",
+        "items": [
+            {
+                "name": "",
+                "url": "#"
+            },
+            {
+                "name": "",
+                "url": "#"
+            }
+        ]
     }
 ]
