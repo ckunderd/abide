@@ -17,6 +17,23 @@
         ]
     },
     {
+        "id": 4,
+        "name": "Reconcile",
+        "image": "../images/abide_ministries11.jpg",
+        "url": "/reconcile",
+        "description": "Racial Reconciliation",
+        "items": [
+            {
+                "name": "",
+                "url": "#"
+            },
+            {
+                "name": "",
+                "url": "#"
+            }
+        ]
+    },
+    {
         "id": 1,
         "name": "70x7",
         "image": "../images/abide_ministries5.jpg",
@@ -68,11 +85,11 @@
         ]
     },
     {
-        "id": 4,
-        "name": "Reconcile",
-        "image": "../images/abide_ministries11.jpg",
-        "url": "/reconcile",
-        "description": "Racial Reconciliation",
+        "id": 21,
+        "name": "Sanctuary",
+        "image": "../images/abide_ministries21.jpg",
+        "url": "/sanctuary",
+        "description": "Trauma Relief",
         "items": [
             {
                 "name": "",
