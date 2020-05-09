@@ -11,7 +11,7 @@ ministryname = "Haiti Children's Aid Society USA"
 donorbox_id = "hcas"
 ministrydescription = ""
 ministryposition = "left"
-mobile_background = "mobile background-right"
+mobile_background = "mobile background-center"
 overview = "is a branch of Abide Ministries committed to meeting the needs of orphaned and impoverished children in Haiti."
 donate_in_order_to = "In order provide for the needs of orphaned and impoverished children"
 +++

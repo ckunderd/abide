@@ -11,6 +11,7 @@ ministryname = "Transplanters"
 donorbox_id = "transplanters"
 ministrydescription = "Dave & Kris McKenney"
 ministryposition = "right"
+background-image-position = "19"
 overview = "enables pioneering non-profit leaders to take the next step in their growth and development. "
 donate_in_order_to = "In order to sustain their work helping pioneering non-profit leaders grow in meaningful ways"
 +++

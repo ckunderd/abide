@@ -11,7 +11,7 @@ ministryname = "Captain"
 donorbox_id = "captain"
 ministrydescription = "Blake Pokley, CFP®"
 ministryposition = "left"
-mobile_background = "mobile background-right"
+mobile_background = "mobile background-center"
 overview = "is a branch of Abide Ministries offering free, unbiased, and helpful financial advice and education for the glory of God and the furthering of His Kingdom."
 donate_in_order_to = "In order to help unlock the potential of oppressed women and children around the world"
 +++

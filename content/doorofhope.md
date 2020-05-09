@@ -11,7 +11,7 @@ ministryname = "Door of Hope"
 donorbox_id = "doorofhope"
 ministrydescription = ""
 ministryposition = "left"
-mobile_background = "mobile background-right"
+mobile_background = "mobile background-center"
 overview = "is a branch of Abide Ministries committed to unlocking the potential of oppressed women and children around the world."
 donate_in_order_to = "In order to help unlock the potential of oppressed women and children around the world"
 +++

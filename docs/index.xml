@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abide Ministries</title>
@@ -27,9 +27,7 @@
       
       <guid>https://abide.community/donate/</guid>
       <description>ONLINE GIFTS Online gifts can be made using the form on this page. You can make one-time or recurring gifts using credit cards, debit cards, or bank transfers. All transactions are processed through Donorbox (a Stripe Partner) for the highest level of security and convenience. Once you make a gift, you can manage your gift at www.donorbox.org.
-CHECK GIFTS Check gifts can be made out to:
-Abide Ministries
-323 Linwood Ave</description>
+CHECK GIFTS </description>
     </item>
     
     <item>

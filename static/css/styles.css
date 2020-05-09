@@ -1255,6 +1255,7 @@ footer.entry-meta .meta-in {
 	 .nav-logo {  font-size: 2rem;}
 	#header {height: 75vh;}
 	.mobile.background-right {background-position: right !important;}
+	.mobile.background-center {background-position: center !important;}
 	.home #head {position: absolute; bottom: 30%;}
 	.home #head .title {font-size: 2.5rem;}
 	.home #head .tagline {font-size: 1rem;}

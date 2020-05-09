@@ -12,6 +12,7 @@ donorbox_id = "reconcile"
 ministrydescription = "ShaCha & Edwin Geronimo"
 ministryposition = "left"
 mobile_background = "mobile background-right"
+background-image-position = "90"
 overview = "is committed to communicating the love of God and His message of reconciliation to individuals and communities."
 donate_in_order_to = "In order to sustain their work of helping foster Christ-centered reconciliation,"
 +++
