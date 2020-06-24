@@ -18,6 +18,11 @@
          <a class="btn btn-action text-center ministry-button" href="{{$.Param "website"}}" target="_blank">Website</a>
         {{ end }}
 		</div>
+        <div class="ministry-button-row">
+        {{with $.Param "schedule"}}
+            <a class="btn btn-action text-center schedule" href="{{$.Param "schedule"}}" target="_blank">Schedule Appointment</a>
+            {{ end }}
+        </div>
     </div>
     </div>
 </div> <!-- / section -->

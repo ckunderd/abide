@@ -258,6 +258,11 @@ h6.lead {
 }
 
 .subheader .btn-action {margin: 0 auto; max-width: 200px; display: block;}
+a.btn.btn-action.text-center.schedule {
+    max-width: 400px;
+    background: rgb(0,0,44) !important;
+    color: white;
+}
 .donate .subheader .btn-action {margin: 0 auto; max-width: 200px; display: block;}
 .text-msg {
   line-height: 1.7em;
