@@ -16,6 +16,7 @@ website = ""
 overview = "is a branch of Abide Ministries that exists to strategically advance the mission expansion work of local, national, and international Inter-Collegiate Campus Ministries."
 donate_in_order_to = "In order to aid in the development of campus ministries across the nation and world"
 bg_image_classes = "center"
+endpoint = "https://formcarry.com/s/mXvmKSnxGS"
 +++
 
 By the year 2040, there will be an estimated 600 million university students worldwide. On campuses, the belief that life is meaningless and secular is also rapidly growing, leading to notable degrees of brokenness and social ills, such as, depression, anxiety, addiction, and hopelessness. Coupled with these trends, collegiate ministries commissioned with bringing the hope of the Gospel to campuses often struggle to develop and expand their teams, programs, and overall mission to meet growing demands. A phrase often referred to by those who work closes with students – these are “the critical years.”
