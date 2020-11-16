@@ -305,6 +305,23 @@
         ]
     },
     {
+        "id": 23,
+        "name": "The Tatlow Society",
+        "image": "../images/abide_ministries23.jpg",
+        "url": "/thetatlowsociety",
+        "description": "University Students",
+        "items": [
+            {
+                "name": "",
+                "url": "#"
+            },
+            {
+                "name": "",
+                "url": "#"
+            }
+        ]
+    },
+    {
         "id": 20,
         "name": "Captain",
         "image": "../images/abide_ministries20.jpg",
