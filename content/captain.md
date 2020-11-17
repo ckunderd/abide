@@ -16,6 +16,7 @@ overview = "is a branch of Abide Ministries offering free, unbiased, and helpful
 donate_in_order_to = "In order to help unlock the potential of oppressed women and children around the world"
 website = "https://captainministry.org"
 schedule = "https://captainministry.org/#contact"
+endpoint = "https://formcarry.com/s/wxpkGXgVFx"
 +++
 
 There are some significant issues in the American financial planning industry. Many of the people who need help can’t afford it and others who can afford it often get taken advantage of through excessive investment advisory fees, investment commissions, loads on mutual funds, and excessive fund expenses just to name a few. Correcting these issues takes someone bold enough to offer something unprecedented and with as little bias as possible: free financial planning and education.
