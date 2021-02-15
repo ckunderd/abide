@@ -256,6 +256,7 @@ h6.lead {
     max-width: 767px;
     min-width: 250px;
 }
+}
 
 .subheader .btn-action {margin: 0 auto; max-width: 200px; display: block;}
 a.btn.btn-action.text-center.schedule {
@@ -686,12 +687,26 @@ p.version {
 .donate-button {display: inline-block !important; width: 300px; margin-right: 20px !important; margin-bottom: 20px !important;}
 .ministry p.lead {font-weight: 300;}
 .ministry-name {font-weight: 400; text-transform: uppercase;}
-.donate-overview h3 {text-transform: uppercase; font-weight: 200;}
+.donate-overview-top h3 {text-transform: uppercase; font-weight: 200;}
 .donate .col-md-6 {
     padding-left: 0;
     padding-right: 25px;
 }
 .donate-overview .ministry-name {font-weight: 400;}
+.donation-option {padding:20px;}
+.donation-option h3 {
+    min-height: 80px;
+    border-bottom: 1px solid #CCC;
+    margin-bottom: 20px;
+}
+.donate-information {
+    max-width: 700px;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-top: 1px solid #CCC;
+    padding-top: 30px;
+}
 .tabs {border: none !important;}
 .ministry-overview h2 {
     color: white;
