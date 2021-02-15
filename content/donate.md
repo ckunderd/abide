@@ -22,4 +22,4 @@ Check gifts can be made out to: **Abide Ministries**. Checks can be sent to: **3
 Most U.S. brokerage firms can quickly and easily transfer your gift of stock or mutual funds to Abide Ministries electronically. [Click here for details to give to your broker.](https://abide.community/pdf/stock.pdf)
 ### IRA CHARITABLE ROLLOVER
 
-If you are age 70 1⁄2 or older, you can make gifts from your Individual Retirement Account (IRA) directly to Abide Ministries or its branches without paying income tax on the withdrawal. [Click here for instructions on how to make an IRA Charitable Rollover.](https://abide.community/pdf/ira.pdf){
+If you are age 70 1⁄2 or older, you can make gifts from your Individual Retirement Account (IRA) directly to Abide Ministries or its branches without paying income tax on the withdrawal. [Click here for instructions on how to make an IRA Charitable Rollover.](https://abide.community/pdf/ira.pdf)
