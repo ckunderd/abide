@@ -23,3 +23,25 @@ Since 2013 Beholders has been training believers on how to cultivate a life that
 Beholders trains by creating worship opportunities where believers can come behold the Father’s heart, because they believe when one beholds something, one becomes like it. In essence, Beholders behold the Creator and therefore become creative! 
 
 Beholders creates opportunities for people to share their faith locally in metro Detroit and around the country. Every May, Beholders helps to establish Love Detroit 24/7, a  24-hour, 7-day per week prayer and outreach opportunity in the city of Detroit, invigorating local followers of Jesus while inviting people from around the country to participate. In addition, Beholders assists in similar opportunities in cities like Los Angeles, Minneapolis, New York, and beyond. 
+
+{
+        "id": 0,
+        "name": "Beholders",
+        "image": "../images/abide_ministries2.jpg",
+        "url": "/beholders",
+        "description": "Worship & Evangelism",
+        "items": [
+            {
+                "name": "",
+                "url": ""
+            },
+            {
+                "name": "",
+                "url": ""
+            },
+            {
+                "name": "",
+                "url": ""
+            }
+        ]
+    },

@@ -170,27 +170,6 @@
         ]
     },
     {
-        "id": 0,
-        "name": "Beholders",
-        "image": "../images/abide_ministries2.jpg",
-        "url": "/beholders",
-        "description": "Worship & Evangelism",
-        "items": [
-            {
-                "name": "",
-                "url": ""
-            },
-            {
-                "name": "",
-                "url": ""
-            },
-            {
-                "name": "",
-                "url": ""
-            }
-        ]
-    },
-    {
         "id": 13,
         "name": "Pearl",
         "image": "../images/abide_ministries14.jpg",
