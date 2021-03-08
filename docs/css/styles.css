@@ -1222,10 +1222,13 @@ footer.entry-meta .meta-in {
     margin-right: 20px !important;
 }
 
-.guidestar img {
+ .guidestar img {
     width: 100px;
-    margin-left: 20px;
+    margin-left: 0px;
+        margin-top: 20px;
 }
+
+
 .center-iframe {margin: 0 10%;}
 /* Max page width
 /////////////////////////////////////////////////////////////////////*/
@@ -1233,8 +1236,7 @@ footer.entry-meta .meta-in {
   .center-iframe {margin: 0 2%;}
     .guidestar img {
     width: 100px;
-    margin-left: 0px;
-        margin-top: 20px;
+    margin-left: 20px;
 }
 }
 
