@@ -250,7 +250,7 @@ h6.lead {
     padding: 0 0 30px 0;
     letter-spacing: 1px;
     font-size: 1.5rem;
-    font-weight: 100;
+    font-weight: 200;
     color: #AAA;
     margin-bottom: 30px;
     max-width: 767px;
@@ -696,7 +696,8 @@ p.version {
 .donate-overview-top .ministry-name {font-weight: 400;}
 .donation-option {padding:20px;}
 .donation-option h3 {
-    min-height: 80px;
+    padding-top: 60px;
+    min-height: 150px;
     border-bottom: 1px solid #CCC;
     margin-bottom: 20px;
 }
@@ -1220,11 +1221,21 @@ footer.entry-meta .meta-in {
     padding-right: 20px;
     margin-right: 20px !important;
 }
+
+.guidestar img {
+    width: 100px;
+    margin-left: 20px;
+}
 .center-iframe {margin: 0 10%;}
 /* Max page width
 /////////////////////////////////////////////////////////////////////*/
 @media (max-width: 500px) {
   .center-iframe {margin: 0 2%;}
+    .guidestar img {
+    width: 100px;
+    margin-left: 0px;
+        margin-top: 20px;
+}
 }
 
 @media (min-width: 1200px) {
