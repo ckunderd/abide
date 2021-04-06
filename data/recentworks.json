@@ -102,6 +102,23 @@
         ]
     },
     {
+        "id": 25,
+        "name": "Miriam's Miracle",
+        "image": "../images/abide_ministries25.jpg",
+        "url": "/miriamsmiracle",
+        "description": "Training",
+        "items": [
+            {
+                "name": "",
+                "url": "#"
+            },
+            {
+                "name": "",
+                "url": "#"
+            }
+        ]
+    },
+    {
         "id": 22,
         "name": "99:1 Ministries",
         "image": "../images/abide_ministries22.jpg",

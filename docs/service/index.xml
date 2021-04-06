@@ -5,11 +5,7 @@
     <link>https://abide.community/service/</link>
     <description>Recent content in Services on Abide Ministries</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://abide.community/service/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://abide.community/service/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Application development</title>
       <link>https://abide.community/service/service3/</link>
