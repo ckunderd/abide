@@ -19,7 +19,7 @@ bg_image_classes = "center"
 endpoint = "https://formcarry.com/s/i0Dwr4uHwTU"
 +++
 
-In April of 2017, Phil and Maryanne Munroe traveled on a mission trip to Haiti to help rebuild the nation after Hurricane Matthew, a category 5 storm, caused massive destruction. Little did they know that God other plans on that trip - more specifically, a plan to rebuild Phil's heart and launch him on a path to help others discover their God-given purpose. 
+In April of 2017, Phil and Maryanne Munroe traveled on a mission trip to Haiti to help rebuild the nation after Hurricane Matthew, a category 5 storm, caused massive destruction. Little did they know that God had other plans on that trip - more specifically, a plan to rebuild Phil's heart and launch him on a path to help others discover their God-given purpose. 
 
 On April 6, 2017, while watching an amazing sunrise over the place where they were staying, Phil surrendered his life to Jesus Christ. On the same day, Jesus presented Phil and Maryanne with the honor of becoming godparents to a beautiful 15-day old Haitian child named Miriam. This encounter with baby Miriam set Phil's life on a journey that would uncover the miracle that had been lying dormant inside of his life for far too long, the miracle of "just saying yes" to Jesus.
 
