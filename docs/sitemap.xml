@@ -1,152 +1,86 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://abide.community/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/donate/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/explore/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/70x7/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/99-1/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/captain/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/champion/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/connectthenations/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/cultivate/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/doorofhope/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/hcas/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://abide.community/heels/</loc>
+  </url><url>
     <loc>https://abide.community/kaleoarts/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://abide.community/kidsempoweredonthemove/</loc>
+  </url><url>
     <loc>https://abide.community/mentormission/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/miriamsmiracle/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/motion/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/onyourfeetdetroit/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/patron/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/pearl/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/reconcile/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/restoring/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/sanctuary/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/thetatlowsociety/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/transplanters/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/blog/vivamus-lacus-mauris/</loc>
     <lastmod>2017-08-25T06:12:23-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/</loc>
     <lastmod>2017-08-25T06:12:23-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/tags/baptism/</loc>
     <lastmod>2017-08-25T06:12:23-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/blog/</loc>
     <lastmod>2017-08-25T06:12:23-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/categories/</loc>
     <lastmod>2017-08-25T06:12:23-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/categories/cultivate/</loc>
     <lastmod>2017-08-25T06:12:23-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/tags/</loc>
     <lastmod>2017-08-25T06:12:23-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/service/service3/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/service/service1/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/service/service4/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/service/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://abide.community/service/service2/</loc>
   </url>
-  
 </urlset>
