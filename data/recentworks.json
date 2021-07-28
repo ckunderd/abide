@@ -17,6 +17,23 @@
         ]
     },
     {
+        "id": 27,
+        "name": "We",
+        "image": "../images/abide_ministries27.jpg",
+        "url": "/we",
+        "description": "Social Justice",
+        "items": [
+            {
+                "name": "",
+                "url": "#"
+            },
+            {
+                "name": "",
+                "url": "#"
+            }
+        ]
+    },
+    {
         "id": 4,
         "name": "Reconcile",
         "image": "../images/abide_ministries11.jpg",
