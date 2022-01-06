@@ -15,7 +15,7 @@ Online gifts can be made using the form on this page. You can make one-time or r
 
 ### CHECK GIFTS
 
-Check gifts can be made out to: **Abide Ministries**. Checks can be sent to: **323 Linwood Ave, Rochester, MI 48307**.
+Check gifts can be made out to: **Abide Ministries**. Checks can be sent to: **PO Box 101, Clawson MI 48017**. Please put the name of the branch you want to support in the memo line, or put "Abide" for all general gifts to the ministry.
 
 ### STOCK / MUTUAL FUND GIFTS
 
