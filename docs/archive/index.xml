@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archives on Abide Ministries</title>
+    <link>https://abide.community/archive/</link>
+    <description>Recent content in Archives on Abide Ministries</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://abide.community/archive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pearl</title>
+      <link>https://abide.community/archive/pearl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abide.community/archive/pearl/</guid>
+      <description>Yang Chen is the founder of Pearl, a relational network designed to help Asian Americans flourish in Christ.
+Yang immigrated to the US at the age of 5 for his father’s PhD program at Oakland University. He quickly found himself being influenced by two very different cultures. At home, his family’s Chinese culture established the norm, but at school and with peers, American youth culture provided a very different outlook and influence on his life.</description>
+    </item>
+    
+  </channel>
+</rss>

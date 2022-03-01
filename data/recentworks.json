@@ -1,5 +1,39 @@
 [
     {
+        "id": 28,
+        "name": "RUBY",
+        "image": "../images/ruby_individual.jpg",
+        "url": "/ruby",
+        "description": "Young Women",
+        "items": [
+            {
+                "name": "",
+                "url": "#"
+            },
+            {
+                "name": "",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "A Fonte",
+        "image": "../images/afonte_individual.jpg",
+        "url": "/afont",
+        "description": "Children's Ministry",
+        "items": [
+            {
+                "name": "",
+                "url": "#"
+            },
+            {
+                "name": "",
+                "url": "#"
+            }
+        ]
+    },
+    {
         "id": 26,
         "name": "HEELS",
         "image": "../images/abide_ministries26.jpg",
@@ -217,27 +251,6 @@
             {
                 "name": "",
                 "url": "#"
-            }
-        ]
-    },
-    {
-        "id": 13,
-        "name": "Pearl",
-        "image": "../images/abide_ministries14.jpg",
-        "url": "/pearl",
-        "description": "Asian Americans",
-        "items": [
-            {
-                "name": "",
-                "url": ""
-            },
-            {
-                "name": "",
-                "url": ""
-            },
-            {
-                "name": "",
-                "url": ""
             }
         ]
     },
