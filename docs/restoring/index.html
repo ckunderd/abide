@@ -172,56 +172,7 @@
     </div>
 </div>
 
-<div class="section topspace contact" id="contact-Restoring">
-<div class="row">
-<h2>Have a question for <span class="overview-name">Restoring</span>?</h2>
-<script>
-    function onSubmit(token) {
-      document.getElementById("contact-form").submit();
-    }
-    function sendData() {
-        var fields = {};
-        var name = document.getElementById("name").value;
-        var email = document.getElementById("email").value;
-        var message = document.getElementById("message").value;
-        var branch = document.getElementById("_branch").value;
-        fields["name"] = name;
-        fields["email"] = email;
-        fields["message"] = message;
-        fields["branch"] = branch;
-        url = "https://dudcxnk8ec.execute-api.us-east-1.amazonaws.com/Prod";
-        
-        async function postData(url = "", data={}) {
-            const response = await fetch(url, {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                    "Access-Control-Allow-Origin" : "*", 
-                    "Access-Control-Allow-Credentials" : true 
-                },
-                redirect: 'follow',
-                referrerPolicy: 'no-referrer',
-                body: JSON.stringify(data)
-            });
-            return response.json();
-        }
 
-        postData(url,fields).then(data => console.log(data)).catch((e) => console.error(e));
-    }
-  </script>
-<form method="POST" action="index.html" id="contact-form">
-  <div class="col-md-6"><input type="input" name="name" id="name" placeholder="Your name">
-  <input type="email" name="email" id="email" placeholder="Your email"></div>
-  <div class="col-md-6"><textarea name="message" placeholder="Your message" id="message"></textarea> 
-   <button class="g-recaptcha" data-sitekey="6LcGS6geAAAAAD42cKzEt3E5Lptgwzpa5m7Smz5B" data-callback="onSubmit" data-action="submit" type="submit" onclick="sendData()">Send</button>
-  <input type="hidden" name="_next" value="https://abide.community/restoring" />
-  <input type="hidden" name="_branch" id="_branch" value="restoring@abide.community" />
-</div>
-</form>
-</div>
-</div>
-
-</div>	
 
 </main>
 
