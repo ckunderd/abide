@@ -181,15 +181,38 @@
     function onSubmit(token) {
       document.getElementById("contact-form").submit();
     }
-    function redirect() {
-        document.location.href="index.html";
+    function sendData() {
+        var fields = {};
+        var name = getElementByName("name").value;
+        var email = getElementByName("email").value;
+        var message = getElementByName("message").value;
+        var branch = getElementByName("_branch").value;
+        fields["name"] = name;
+        fields["email"] = email;
+        fields["message"] = message;
+        fields["branch"] = to_email;
+        
+        async function postData(url = "https://dudcxnk8ec.execute-api.us-east-1.amazonaws.com/Prod", data={}) {
+            const response = await fetch(url, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                redirect: 'follow',
+                referrerPolicy: 'no-referrer',
+                body: JSON.stringify(data)
+            });
+            return response.json();
+        }
+
+        postData(url,fields).then(data => console.log(data)).catch((e) => console.error(e));
     }
   </script>
-<form method="POST" action="https://dudcxnk8ec.execute-api.us-east-1.amazonaws.com/Prod" id="contact-form">
+<form method="POST" action="index.html" id="contact-form">
   <div class="col-md-6"><input type="input" name="name" placeholder="Your name">
   <input type="email" name="email" placeholder="Your email"></div>
   <div class="col-md-6"><textarea name="message" placeholder="Your message"></textarea> 
-   <button onclick="redirect()" class="g-recaptcha" data-sitekey="6LcGS6geAAAAAD42cKzEt3E5Lptgwzpa5m7Smz5B" data-callback="onSubmit" data-action="submit" type="submit">Send</button>
+   <button class="g-recaptcha" data-sitekey="6LcGS6geAAAAAD42cKzEt3E5Lptgwzpa5m7Smz5B" data-callback="onSubmit" data-action="submit" type="submit" onclick="sendData()">Send</button>
   <input type="hidden" name="_next" value="https://abide.community/sanctuaryservices" />
   <input type="hidden" name="_branch" value="sanctuary@abide.community" />
 </div>
