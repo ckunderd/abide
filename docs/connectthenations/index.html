@@ -183,20 +183,23 @@
     }
     function sendData() {
         var fields = {};
-        var name = getElementByName("name").value;
-        var email = getElementByName("email").value;
-        var message = getElementByName("message").value;
-        var branch = getElementByName("_branch").value;
+        var name = document.getElementById("name").value;
+        var email = document.getElementById("email").value;
+        var message = document.getElementById("message").value;
+        var branch = document.getElementById("_branch").value;
         fields["name"] = name;
         fields["email"] = email;
         fields["message"] = message;
-        fields["branch"] = to_email;
+        fields["branch"] = branch;
+        url = "https://dudcxnk8ec.execute-api.us-east-1.amazonaws.com/Prod";
         
-        async function postData(url = "https://dudcxnk8ec.execute-api.us-east-1.amazonaws.com/Prod", data={}) {
+        async function postData(url = "", data={}) {
             const response = await fetch(url, {
                 method: 'POST',
                 headers: {
-                    'Content-Type': 'application/json'
+                    'Content-Type': 'application/json',
+                    "Access-Control-Allow-Origin" : "*", 
+                    "Access-Control-Allow-Credentials" : true 
                 },
                 redirect: 'follow',
                 referrerPolicy: 'no-referrer',
@@ -209,12 +212,12 @@
     }
   </script>
 <form method="POST" action="index.html" id="contact-form">
-  <div class="col-md-6"><input type="input" name="name" placeholder="Your name">
-  <input type="email" name="email" placeholder="Your email"></div>
-  <div class="col-md-6"><textarea name="message" placeholder="Your message"></textarea> 
+  <div class="col-md-6"><input type="input" name="name" id="name" placeholder="Your name">
+  <input type="email" name="email" id="email" placeholder="Your email"></div>
+  <div class="col-md-6"><textarea name="message" placeholder="Your message" id="message"></textarea> 
    <button class="g-recaptcha" data-sitekey="6LcGS6geAAAAAD42cKzEt3E5Lptgwzpa5m7Smz5B" data-callback="onSubmit" data-action="submit" type="submit" onclick="sendData()">Send</button>
   <input type="hidden" name="_next" value="https://abide.community/ctn" />
-  <input type="hidden" name="_branch" value="alexa@connectthenations.org" />
+  <input type="hidden" name="_branch" id="_branch" value="alexa@connectthenations.org" />
 </div>
 </form>
 </div>
