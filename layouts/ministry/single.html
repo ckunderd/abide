@@ -96,12 +96,15 @@
     function onSubmit(token) {
       document.getElementById("contact-form").submit();
     }
+    function redirect() {
+        document.location.href="index.html";
+    }
   </script>
 <form method="POST" action="https://dudcxnk8ec.execute-api.us-east-1.amazonaws.com/Prod" id="contact-form">
   <div class="col-md-6"><input type="input" name="name" placeholder="Your name">
   <input type="email" name="email" placeholder="Your email"></div>
   <div class="col-md-6"><textarea name="message" placeholder="Your message"></textarea> 
-   <button class="g-recaptcha" data-sitekey="6LcGS6geAAAAAD42cKzEt3E5Lptgwzpa5m7Smz5B" data-callback="onSubmit" data-action="submit" type="submit">Send</button>
+   <button onclick="redirect()" class="g-recaptcha" data-sitekey="6LcGS6geAAAAAD42cKzEt3E5Lptgwzpa5m7Smz5B" data-callback="onSubmit" data-action="submit" type="submit">Send</button>
   <input type="hidden" name="_next" value="{{ .Site.BaseURL }}{{ $.Param "donorbox_id" }}" />
   <input type="hidden" name="_branch" value="{{ $.Param "contact_email" }}" />
 </div>
