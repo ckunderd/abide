@@ -175,10 +175,17 @@
 <div class="section topspace contact" id="contact-99:1 Ministries">
 <div class="row">
 <h2>Have a question for <span class="overview-name">99:1 Ministries</span>?</h2>
-<form method="POST" action="https://dudcxnk8ec.execute-api.us-east-1.amazonaws.com/Prod">
+<script>
+    function onSubmit(token) {
+      document.getElementById("contact-form").submit();
+    }
+  </script>
+<form method="POST" action="https://dudcxnk8ec.execute-api.us-east-1.amazonaws.com/Prod" id="contact-form">
   <div class="col-md-6"><input type="input" name="name" placeholder="Your name">
   <input type="email" name="email" placeholder="Your email"></div>
-  <div class="col-md-6"><textarea name="message" placeholder="Your message"></textarea> <button type="submit">Send</button><input type="hidden" name="_next" value="https://abide.community/99-1" />
+  <div class="col-md-6"><textarea name="message" placeholder="Your message"></textarea> 
+   <button class="g-recaptcha" data-sitekey="6LcGS6geAAAAAD42cKzEt3E5Lptgwzpa5m7Smz5B" data-callback="onSubmit" data-action="submit" type="submit">Send</button>
+  <input type="hidden" name="_next" value="https://abide.community/99-1" />
 </div>
 </form>
 </div>
