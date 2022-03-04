@@ -1,5 +1,5 @@
 +++
-menu = "main"
+menu = ""
 title = "Explore"
 type = "explore"
 weight = 2
