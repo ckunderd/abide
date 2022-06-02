@@ -187,23 +187,6 @@
         ]
     },
     {
-        "id": 7,
-        "name": "Champion",
-        "image": "../images/abide_ministries8.jpg",
-        "url": "/champion",
-        "description": "Sports Ministry",
-        "items": [
-            {
-                "name": "",
-                "url": "#"
-            },
-            {
-                "name": "",
-                "url": "#"
-            }
-        ]
-    },
-    {
         "id": 8,
         "name": "Cultivate",
         "image": "../images/abide_ministries9.jpg",
@@ -251,27 +234,6 @@
             {
                 "name": "",
                 "url": "#"
-            }
-        ]
-    },
-    {
-        "id": 14,
-        "name": "Motion",
-        "image": "../images/abide_ministries16.jpg",
-        "url": "/motion",
-        "description": "Widow Support",
-        "items": [
-            {
-                "name": "",
-                "url": ""
-            },
-            {
-                "name": "",
-                "url": ""
-            },
-            {
-                "name": "",
-                "url": ""
             }
         ]
     },
