@@ -1,22 +1,5 @@
 [
     {
-        "id": 29,
-        "name": "Two Or More",
-        "image": "../images/abide_ministries28.jpg",
-        "url": "/twoormore",
-        "description": "Multi-Ethnic Reconciliation",
-        "items": [
-            {
-                "name": "",
-                "url": "#"
-            },
-            {
-                "name": "",
-                "url": "#"
-            }
-        ]
-    },
-    {
         "id": 28,
         "name": "RUBY",
         "image": "../images/ruby_individual.jpg",
@@ -51,11 +34,11 @@
         ]
     },
     {
-        "id": 30,
-        "name": "Hope For The Nations",
-        "image": "../images/abide_ministries29.jpg",
-        "url": "/hopeforthenations",
-        "description": "Evangelism",
+        "id": 26,
+        "name": "HEELS",
+        "image": "../images/abide_ministries26.jpg",
+        "url": "/heels",
+        "description": "Rehabilitation",
         "items": [
             {
                 "name": "",
@@ -68,11 +51,11 @@
         ]
     },
     {
-        "id": 26,
-        "name": "HEELS",
-        "image": "../images/abide_ministries26.jpg",
-        "url": "/heels",
-        "description": "Rehabilitation",
+        "id": 30,
+        "name": "Hope For The Nations",
+        "image": "../images/abide_ministries29.jpg",
+        "url": "/hopeforthenations",
+        "description": "Evangelism",
         "items": [
             {
                 "name": "",
