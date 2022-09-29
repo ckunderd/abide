@@ -6,6 +6,7 @@ type = "ministry"
 weight = 10
 contact_email = "hopeforthenations@abide.community"
 header_image = "images/hopeforthenations_bg.jpg"
+profile_image = "images/abide_ministries29.jpg"
 sub_background = "images/hopeforthenations_sub_background.jpg"
 ministryname = "Hope For The Nations"
 donorbox_id = "hopeforthenations"
