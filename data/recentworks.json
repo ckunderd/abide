@@ -34,11 +34,11 @@
         ]
     },
     {
-        "id": 28,
-        "name": "RUBY",
-        "image": "../images/ruby_individual.jpg",
-        "url": "/ruby",
-        "description": "Young Women",
+        "id": 31,
+        "name": "Liminal",
+        "image": "../images/abide_ministries30.jpg",
+        "url": "/liminal",
+        "description": "Asian-Americans",
         "items": [
             {
                 "name": "",
@@ -51,11 +51,11 @@
         ]
     },
     {
-        "id": 30,
-        "name": "Hope For The Nations",
-        "image": "../images/abide_ministries29.jpg",
-        "url": "/hopeforthenations",
-        "description": "Evangelism",
+        "id": 32,
+        "name": "Rescued By Love",
+        "image": "../images/abide_ministries31.jpg",
+        "url": "/rescuedbylove",
+        "description": "Multi-ethnic",
         "items": [
             {
                 "name": "",
@@ -272,11 +272,11 @@
         ]
     },
     {
-        "id": 31,
-        "name": "Liminal",
-        "image": "../images/abide_ministries30.jpg",
-        "url": "/liminal",
-        "description": "Asian-Americans",
+        "id": 30,
+        "name": "Hope For The Nations",
+        "image": "../images/abide_ministries29.jpg",
+        "url": "/hopeforthenations",
+        "description": "Evangelism",
         "items": [
             {
                 "name": "",
