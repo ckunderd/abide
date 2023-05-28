@@ -1,5 +1,22 @@
 [
     {
+        "id": 33,
+        "name": "Zera",
+        "image": "../images/zera_individual.jpg",
+        "url": "/zera",
+        "description": "Evangelism & Discipleship",
+        "items": [
+            {
+                "name": "",
+                "url": "#"
+            },
+            {
+                "name": "",
+                "url": "#"
+            }
+        ]
+    },
+    {
         "id": 29,
         "name": "A Fonte",
         "image": "../images/afonte_individual.jpg",
