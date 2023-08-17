@@ -1,5 +1,39 @@
 [
     {
+        "id": 36,
+        "name": "Cephas Climbing",
+        "image": "../images/cephasclimbing_individual.jpg",
+        "url": "/cephasclimbing",
+        "description": "Outdoors",
+        "items": [
+            {
+                "name": "",
+                "url": "#"
+            },
+            {
+                "name": "",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Gracefilled Giving",
+        "image": "../images/gracefilledgiving_individual.jpg",
+        "url": "/gracefilledgiving",
+        "description": "Direct Aid",
+        "items": [
+            {
+                "name": "",
+                "url": "#"
+            },
+            {
+                "name": "",
+                "url": "#"
+            }
+        ]
+    },
+    {
         "id": 34,
         "name": "Free Bird Initiative",
         "image": "../images/freebirdinitiative_individual.jpg",
