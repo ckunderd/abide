@@ -1,6 +1,23 @@
 [
     {
         "id": 36,
+        "name": "Two or More",
+        "image": "../images/abide_ministries28.jpg",
+        "url": "/twoormore",
+        "description": "Multi-ethnic",
+        "items": [
+            {
+                "name": "",
+                "url": "#"
+            },
+            {
+                "name": "",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 36,
         "name": "Cephas Climbing",
         "image": "../images/cephasclimbing_individual.jpg",
         "url": "/cephasclimbing",
