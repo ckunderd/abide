@@ -13,7 +13,7 @@ donorbox_id = "twoormore"
 ministrydescription = "Brian Petty"
 ministryposition = "left"
 mobile_background = "mobile background-center"
-overview = "is a branch of Abide Ministries that exists to help those who idenitfy as bi/multi-etnic discover the fullness of who they are in Christ."
+overview = "is a branch of Abide Ministries that exists to help those who idenitfy as bi/multi-ethnic discover the fullness of who they are in Christ."
 donate_in_order_to = "In order to aid Two or More in their journey to serve bi/multi-ethnic individuals and their families"
 +++
 
